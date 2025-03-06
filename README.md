@@ -1,6 +1,8 @@
-# ⛔️ DEPRECATED
+# ⛔️ (Almost) DEPRECATED
 
 This feature has been integrated into Radicale as of version 3.4.1.
+
+The PR to add AUTHENTICATE PLAIN has not, so use this with Radicale 3.4.0 if needed.
 
 # Radicale IMAP
 
