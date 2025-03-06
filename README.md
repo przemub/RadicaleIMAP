@@ -1,8 +1,12 @@
-# ⛔️ (Almost) DEPRECATED
+# ⛔️ DEPRECATED
 
-This feature has been integrated into Radicale as of version 3.4.1.
+RadicaleIMAP has been integrated into Radicale as of version 3.4.1.
 
-The PR to add AUTHENTICATE PLAIN has not, so use this with Radicale 3.4.0 if needed.
+This fork was created to support UTF-8 in IMAP authentication, and
+the commit for that was merged to Radicale 3.5.0.
+
+So this repo here is of use to you only if you need Radicale version
+3.4.0 or less. It will conflict with Radicale 3.4.1.
 
 # Radicale IMAP
 
